@@ -57,7 +57,7 @@ puzzles = [
     {"id": 1, "question": "Rearrange the symbols for Boron, Nitrogen, Carbon, Argon and Oxygen to form the name of which element?\nHint: It is pretty common.", "answer": "Carbon"},
     {"id": 2, "question": "If a substance sublimated, then precipitated, then melted, then froze; which state of matter was it in the most times?", "answer": "Solid", "hint": "There are only 3 possibilities"},
     {"id": 3, "question": "If we reacted Sodium Hydoxide (NaOH) with Hydrochloric Acid (HCl), we would get water and what other common substance?", "answer": "Salt", "hint": "It has four letters and you would find it in fish and chips."},
-    {"id": 4, "question": "As you heat a substance its particles gain what type of energy? Take the first letter of the name of this type of energy and write the name of the element that has it as a symbol.", "answer": "Potassium", "hint": "Bananas"},
+    {"id": 4, "question": "As you heat a substance its particles gain what type of energy?", "answer": "Kinetic", "hint": "The energy of moving things"},
     {"id": 5, "question": "Spell the word formed from these chemical element symbols: Carbon, Americium, Phosphorus.", "answer": "Camp", "hint": "It happened in Term 1"},
     {"id": 6, "question": "What turns red in an acid, blue in a base and green in water? ", "answer": "Universal Indicator", "hint": "Bigger than a solar system indicator."},
     {"id": 7, "question": "If a substance behaves as both a solid and a liquid depending on what is done to it, what type of substance is it?", "answer": "Non-Newtonian", "hint": "It’s not non-einsteinian"},
